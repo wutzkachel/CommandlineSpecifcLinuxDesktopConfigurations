@@ -1,4 +1,4 @@
-# H1 CommandlineSpecifcLinuxDesktopConfigurations
+# CommandlineSpecifcLinuxDesktopConfigurations
 
 ## Installation
 ```
