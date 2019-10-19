@@ -67,13 +67,13 @@ python_version = "2.7"
 ## Zsh     
   * **Installation**
   
-  https://github.com/robbyrussell/oh-my-zsh
-  
-  https://github.com/caiogondim/bullet-train.zsh
-  
     ```
     sudo pacman -S powerline-fonts
     ```
     ```
     yay --answerclean y --answerdiff n --answeredit n ttf-ancient-fonts
     ``` 
+    
+  https://github.com/robbyrussell/oh-my-zsh
+  
+  https://github.com/caiogondim/bullet-train.zsh
