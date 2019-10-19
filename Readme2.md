@@ -66,12 +66,10 @@ python_version = "2.7"
     ```git config credential.helper store``` 
  
 ## Zsh     
-  * **Installation on Archlinux** 
+  * **Installation**
+  
+  https://github.com/robbyrussell/oh-my-zsh
   
   https://github.com/caiogondim/bullet-train.zsh
  
-    ```yay --answerclean y --answerdiff n --answeredit n oh-my-zsh-git``` 
-     
-    ```yay --answerclean y --answerdiff n --answeredit n bullet-train-oh-my-zsh-theme-git``` 
-     
     ```yay --answerclean y --answerdiff n --answeredit n ttf-ancient-fonts``` 
