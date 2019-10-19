@@ -70,6 +70,7 @@ python_version = "2.7"
   https://github.com/robbyrussell/oh-my-zsh
   
   https://github.com/caiogondim/bullet-train.zsh
+  
     ```
     sudo pacman -S powerline-fonts
     ```
