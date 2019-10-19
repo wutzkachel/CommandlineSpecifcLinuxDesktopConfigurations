@@ -67,6 +67,8 @@ python_version = "2.7"
  
 ## Zsh     
   * **Installation on Archlinux** 
+  
+  https://github.com/caiogondim/bullet-train.zsh
  
     ```yay --answerclean y --answerdiff n --answeredit n oh-my-zsh-git``` 
      
