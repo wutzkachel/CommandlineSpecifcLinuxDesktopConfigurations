@@ -33,6 +33,10 @@ export HTTP_PROXY=http://127.0.0.1:3128
 export HTTPS_PROXY=http://127.0.0.1:3128                                                                                                                                                                         
 export FTP_PROXY=http://127.0.0.1:3128       
 ```
+### oh-my-zsh
+```
+plugins=(git history ssh-agent tmux pipenv ansible)
+```
 
 ### tmux
 
