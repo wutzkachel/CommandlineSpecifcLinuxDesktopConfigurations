@@ -54,8 +54,7 @@ set -g  pane-base-index 1
 set -g  mode-keys vi                                                                                                                                                                                     
 #set -g  automatic-rename                                                                                                                                                                                       
 # Lese die Konfiguration mit Strg+a R                                                                   
-bind-key R source-file ~/.tmux.conf \; \                                                                                                                                                         
-                   display-message "source-file done"                                                                                                                                                           
+bind-key R source-file ~/.tmux.conf \; display "Reloaded tmux.conf"                                                                                                                                                
 # Verwende das x um ein Pane zu schliessen                                                              
 unbind x                                                                                                 
 bind-key x kill-pane                                                                                                                                                                                           
